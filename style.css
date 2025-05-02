@@ -11,8 +11,8 @@ body{
 
 .first-screen{
     padding: 40px 0px;
-    background: #006fff;
-    background: linear-gradient(137deg, rgba(0, 111, 255, 1) 0%, rgba(51, 255, 167, 1) 50%);
+    background: #4f4f4f;
+    background: linear-gradient(137deg,rgba(79, 79, 79, 1) 0%, rgba(207, 207, 207, 1) 50%);
 }
 
 
